@@ -47,7 +47,8 @@ En créant un conteneur, le réseau de celui-ci est indépendant et séparé de 
 
 Nous devons donc créer un conteneur ( pour les gouverner tous ) qui sera lié à chaque conteneur exposant son port 80.
 
-La solution c’est le reverse proxy ( avec Nginx par exemple ). Vous pouvez utiliser le Docker Nginx officiel et écrire votre propre fichier de configuration, ou bien, utilisez l’image de xxxxx/xxxxxx qui créer une configuration dynamique et automatique pour Nginx.
+La solution c’est le reverse proxy ( avec Nginx par exemple ). Vous pouvez utiliser le Docker Nginx officiel et écrire votre propre fichier de configuration, ou bien, utilisez l’image de [jwilder/nginx-proxy][3] qui créer une configuration dynamique et automatique pour Nginx.
 
 [1]:	https://hub.docker.com/r/library/
 [2]:	https://docs.docker.com/compose/compose-file/
+[3]:	https://hub.docker.com/r/jwilder/nginx-proxy/
