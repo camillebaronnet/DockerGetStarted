@@ -2,7 +2,7 @@
 
 Ce dépôt contient le détail de ma présentation, les slides et les sources utilisées pour les démonstrations.
 
-URL vers les slides : ( prochainement ... )
+URL vers les slides : [http://bunkrapp.com/present/zd6wmq/?utm_medium=share][8]
 
 ## Installation de Docker avec Debian 8
 
@@ -38,3 +38,4 @@ Le détail de cette stack ici : [Wordpress.md][1]
 [5]:	https://docs.docker.com/machine/
 [6]:	https://www.tutum.co/
 [7]:	http://rancher.com/
+[8]:	http://bunkrapp.com/present/zd6wmq/?utm_medium=share
