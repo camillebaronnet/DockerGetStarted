@@ -4,7 +4,7 @@ Ce dépôt contient le détail de ma présentation, les slides et les sources ut
 
 URL vers les slides : [http://bunkrapp.com/present/zd6wmq/?utm_medium=share][8]
 
-## Installation de Docker avec Debian 8
+## Installation de Docker avec Debian 8 Jessie
 
 Ajout de la clef GPG :
 
@@ -28,14 +28,14 @@ Le détail de cette stack ici : [Wordpress.md][1]
 - [Docker Compose][3] : Outil pour lancer de multiples conteneurs, basé sur un simple fichier YAML
 - [Docker Registry][4] : Créez votre propre dépôt privé pour vos images Docker
 - [Docker Machine][5] : Création d’hôtes Docker en local ou dans le cloud ou vos propres serveurs
-- [Tutum][6] : Les avantages de Docker Compose / Machine dans une interface moderne performante et entièrement monitorée ( avantage : Officiel )
-- [Rancher/RancherOS][7] : Similaire à Tutum, projet très prometteur ( avantage : Open Source )
+- [Docker Cloud][6] (ex: Tutum) : Les avantages de Docker Compose / Machine dans une interface moderne performante et entièrement monitorée ( avantage : Officiel )
+- [Rancher/RancherOS][7] : Similaire à Docker Cloud, projet très prometteur ( avantage : Open Source )
 
 [1]:	Wordpress.md
 [2]:	https://docs.docker.com/v1.8/reference/builder/
 [3]:	https://docs.docker.com/compose/
 [4]:	https://docs.docker.com/registry/
 [5]:	https://docs.docker.com/machine/
-[6]:	https://www.tutum.co/
+[6]:	https://cloud.docker.com/
 [7]:	http://rancher.com/
 [8]:	http://bunkrapp.com/present/zd6wmq/?utm_medium=share
